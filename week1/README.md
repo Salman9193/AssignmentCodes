@@ -13,6 +13,8 @@ The following pattern of numbers is called Pascal’s triangle.
 
 The numbers at the edge of the triangle are all 1, and each number inside the triangle is the sum of the two numbers above it. Write a function that computes the elements of Pascal’s triangle by means of a recursive process.
 
+def pascal(c: Int, r: Int): Int
+
 
 <b>Parentheses Balancing</b>
 
@@ -26,7 +28,12 @@ The function should return false for the following strings:
 :-)
 ())(
 
+def pascal(c: Int, r: Int): Int
+
+
 <b>Counting Change</b>
 
 Write a recursive function that counts how many different ways you can make change for an amount, given a list of coin denominations. For example, there are 3 ways to give change for 4 if you have coins with denomination 1 and 2: 1+1+1+1, 1+1+2, 2+2.
+
+def countChange(money: Int, coins: List[Int]): Int
 
