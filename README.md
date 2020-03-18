@@ -58,3 +58,5 @@ Week 3+
 
 Scala By Example, for more examples which illustrate concepts covered in the lectures.
 Scala Cheatsheet, for a quick reference covering pattern matching syntax, for-comprehension syntax, and more.
+
+https://www.coursera.org/learn/progfun1/supplement/D9pm0/learning-resources
